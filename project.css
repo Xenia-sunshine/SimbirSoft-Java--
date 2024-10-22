@@ -1,0 +1,16 @@
+body{
+  margin:0px;
+}
+.bg{
+  background-color: #1213;
+  height: 250px;
+  weight:20px;
+}
+.li1{
+  padding: 13px;
+  color: black;
+  font-size:25px;
+  position: relative;
+  top:4px;
+
+}
